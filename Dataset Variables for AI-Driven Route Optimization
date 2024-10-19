@@ -1,0 +1,24 @@
+Dataset Variables for AI-Driven Route Optimization
+Origin: The starting location ID of a delivery or transportation route.
+
+Destination: The ending location ID, indicating where the goods or services are to be delivered.
+
+Traffic_Delay: The delay in time (in minutes or hours) due to traffic conditions between the origin and destination.
+
+Distance: The total distance (in kilometers or miles) between the origin and destination.
+
+Vehicle_ID: A unique identifier for the vehicle assigned to a specific delivery route.
+
+Vehicle_1_Capacity to Vehicle_5_Capacity: The carrying capacity (in units of weight or volume) of different vehicles in the fleet, allowing for flexibility in selecting the optimal vehicle for deliveries.
+
+Load: The weight or volume of the goods being transported in a particular delivery.
+
+Fuel_Consumption: The amount of fuel consumed by the vehicle (per kilometer or mile) during the delivery, often used for optimizing fuel efficiency.
+
+Latitude_x and Longitude_x: The geographic coordinates (latitude and longitude) of the delivery origin point, used for mapping and distance calculations.
+
+Delivery_Location_ID_x: A unique identifier for the delivery location (origin).
+
+Demand_x: The amount of goods (in units) required at the delivery location.
+
+Delivery_Time_Window_x: The time period (e.g., morning, afternoon, evening) within which the delivery is expected to be made. This helps prioritize and optimize delivery schedules based on customer requirements.
