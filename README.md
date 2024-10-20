@@ -14,12 +14,12 @@ Our AI-powered route optimization model is designed to **enhance logistics effic
 
 - Traffic and Distance Predictions: The model integrates live traffic data to anticipate potential delays and optimizes route distances, ensuring timely deliveries.
 
-2. Vehicle Capacity Utilization: By analyzing vehicle capacities, it ensures maximum load efficiency, reducing operational costs.
+- Vehicle Capacity Utilization: By analyzing vehicle capacities, it ensures maximum load efficiency, reducing operational costs.
 
-3. Sustainability: The system minimizes fuel usage, contributing to lower carbon footprints.
+- Sustainability: The system minimizes fuel usage, contributing to lower carbon footprints.
 
-4. Seamless Integration: Built for compatibility with enterprise infrastructures like IBM Z, the model delivers robust performance and security at scale.
+- Seamless Integration: Built for compatibility with enterprise infrastructures like IBM Z, the model delivers robust performance and security at scale.
 
-5. Real-time Decision Making: AI-driven insights allow logistics companies to adapt to real-time changes, improving customer satisfaction and operational efficiency.
+- Real-time Decision Making: AI-driven insights allow logistics companies to adapt to real-time changes, improving customer satisfaction and operational efficiency.
 
 With a 0.989 R² score and perfect classification metrics, this model provides highly reliable predictions and helps streamline complex logistics operations, ensuring sustainable and cost-effective routing solutions.
