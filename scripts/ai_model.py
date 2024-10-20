@@ -1,5 +1,5 @@
 # Training the Model
-```
+
 # Import necessary libraries
 from sklearn.linear_model import LinearRegression
 
@@ -17,11 +17,11 @@ model.fit(X_train, y_train)
 
 # Displaying the model coefficients
 print("Model coefficients:", model.coef_)
-```
+
 
 
 # Saving the Model
-```
+
 # Assuming you have a GridSearchCV object named 'grid_search'
 best_model = grid_search.best_estimator_
 
@@ -32,4 +32,4 @@ model_filename = 'route_optimization_model.pkl'
 joblib.dump(best_model, model_filename)
 
 print(f'Model saved as {model_filename}')
-```
+
