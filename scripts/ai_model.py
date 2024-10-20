@@ -19,6 +19,7 @@ model.fit(X_train, y_train)
 print("Model coefficients:", model.coef_)
 ```
 
+
 # Saving the Model
 ```
 # Assuming you have a GridSearchCV object named 'grid_search'
