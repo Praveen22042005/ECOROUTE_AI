@@ -3,7 +3,8 @@
 This directory contains the Jupyter Notebook used for building and evaluating the Route Optimization AI Model. The notebook provides a step-by-step guide for **data preprocessing, model training, predictions, and evaluation metrics.** It allows for easy interaction and testing of the entire pipeline using sample data.
 
 ## Notebook File
-**route_optimization_pipeline.ipynb:** This notebook covers the complete workflow, from loading the datasets to training the AI model and evaluating the results. It is designed to guide users through the process of route optimization using machine learning.
+### route_optimization_pipeline.ipynb:
+This notebook covers the complete workflow, from loading the datasets to training the AI model and evaluating the results. It is designed to guide users through the process of route optimization using machine learning.
 
 ## Model Details
 - Algorithm Used: The model uses Ridge Regression, which is an extension of linear regression that addresses multicollinearity by adding a regularization term to the model.
