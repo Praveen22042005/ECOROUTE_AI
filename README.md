@@ -22,4 +22,12 @@ Our AI-powered route optimization model is designed to **enhance logistics effic
 
 - Real-time Decision Making: AI-driven insights allow logistics companies to adapt to real-time changes, improving customer satisfaction and operational efficiency.
 
-With a 0.989 R² score and perfect classification metrics, this model provides highly reliable predictions and helps streamline complex logistics operations, ensuring sustainable and cost-effective routing solutions.
+> With a 0.989 R² score and perfect classification metrics, this model provides highly reliable predictions and helps streamline complex logistics operations, ensuring sustainable and cost-effective routing solutions.
+
+## Tech Stack
+- **Programming Language:** Python
+- **Machine Learning:** scikit-learn, TensorFlow
+- **Infrastructure:** IBM Z, LinuxONE, IBM Cloud
+- **Data Processing:** Pandas, NumPy
+- **Version Control:** GitHub
+- **Deployment:** Docker
