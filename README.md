@@ -2,7 +2,15 @@
 ## AI-Powered Logistics for Driving Efficiency, Precision, and Sustainability for a Smarter Supply Chain Future
 
 ## Problem:
-Logistics operations today are hindered by several critical challenges. Inefficient route planning leads to excessive fuel consumption, delays, and higher transportation costs. Unpredictable traffic patterns further aggravate delivery disruptions, increasing operational expenses and lowering customer satisfaction. Resource underutilization due to poor vehicle capacity management contributes to waste and inefficiencies, while inaccurate demand forecasting causes stock imbalances, resulting in costly overstocking or stockouts. Additionally, the logistics industry contributes significantly to carbon emissions, yet lacks scalable, sustainable practices. Fragmented logistics data across multiple platforms makes it difficult to generate actionable insights, adding to the complexity of managing supply chains.
+Logistics operations today face several critical challenges. Inefficient route planning leads to excessive **fuel consumption, delays, and higher transportation costs.** Unpredictable traffic patterns further disrupt deliveries, **increasing operational expenses and reducing customer satisfaction.** Additionally, resource underutilization due to poor vehicle capacity management contributes to waste and inefficiencies. Inaccurate demand forecasting causes stock imbalances, **resulting in either costly overstocking or stockouts.** Another pressing issue is the environmental impact, as the **logistics industry significantly contributes to carbon emissions** but lacks scalable, sustainable practices. Moreover, fragmented logistics data across multiple platforms makes it difficult to generate actionable insights, adding complexity to supply chain management.
+
+### Key challenges:
+
+- Inefficient route planning and traffic disruptions
+- Poor vehicle capacity management and resource underutilization
+- Inaccurate demand forecasting
+- Environmental impact due to carbon emissions
+- Fragmented data across platforms, complicating supply chain management
 
 
 ### Solution:
