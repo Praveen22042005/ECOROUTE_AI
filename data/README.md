@@ -2,7 +2,7 @@
 
 1. Origin: The starting location of a delivery route, represented as an identifier (numeric code).
 
-  - Example: 0 (represents a specific warehouse or depot).
+    - Example: 0 (represents a specific warehouse or depot).
 
 2. Destination: The final location where goods are delivered, represented as an identifier (numeric code).
   
